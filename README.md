@@ -1,4 +1,4 @@
-# Hospital-Management-System-
+# Hospital-Management-System
 Build by using (Java + MySQL)
 
 This is a desktop-based Hospital Management System developed in Java using Swing for the graphical interface and MySQL for the database.
